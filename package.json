@@ -1,0 +1,20 @@
+{
+  "name": "centschbook-mono",
+  "version": "1.0.0",
+  "description": "One of the best fonts ever invented.",
+  "main": "Century-Schoolbook-Monospace-BT.ttf",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/st-luke/centschbook-mono.git"
+  },
+  "keywords": [
+    "century",
+    "schoolbook",
+    "pro",
+    "mono",
+    "font"
+  ],
+  "author": "Jesus Christ",
+  "license": "idk",
+  "readmeFilename": "README.md"
+}
